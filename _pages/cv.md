@@ -19,7 +19,7 @@ redirect_from:
 
 ---
 
-<div style="font-family: Georgia, serif; font-size: 1.1em; line-height: 1.6;">
+<div style="font-family: Georgia, serif; font-size: 1.1em; line-height: 1.6;" markdown="1">
 
 ## Overview
 I am a portfolio manager and AI researcher whose work bridges financial markets and machine intelligence. My background spans decades of experience across credit, rates, FX, equity, and derivatives, complemented by formal training in financial mathematics (**MIT, Stanford**) and artificial intelligence (**MBZUAI**). My career has evolved through global financial centers including **Tokyo, Hong Kong, Singapore, London, Paris, New York, and Abu Dhabi**.
@@ -64,7 +64,7 @@ I am a portfolio manager and AI researcher whose work bridges financial markets 
 
 ---
 
-<div style="font-family: Georgia, serif; font-size: 1.1em; line-height: 1.6;">
+<div style="font-family: Georgia, serif; font-size: 1.1em; line-height: 1.6;" markdown="1">
 
 ## Academic Foundation
 *   **MBZUAI**: MSc in Natural Language Processing (Thesis: "**On Why Form Shapes Reason**")
