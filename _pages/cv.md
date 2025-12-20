@@ -55,6 +55,10 @@ My research investigates the **formalization of compositional reasoning** throug
 *   **G42 Group, Abu Dhabi**
     *   Designed and built an AI prototype for a **sovereign wealth fund**.
     *   Integrated LLMs, Retrieval-Augmented Generation (RAG), and agentic workflows to automate reasoning in fixed-income research and investment workflows.
+*   **K2 Risk (Reasoning Layer for Multi-Asset Risk)**
+    *   Developed an intelligent reasoning layer using **K2 Think** to translate quantitative risk analytics (rates, FX, credit, equity) into structured natural-language explanations.
+    *   Designed **reasoning graphs** and "why-chains" to bridge the gap between numerical factor sensitivities and causal cross-asset narratives.
+    *   Leveraged high-speed inference (~2,000 tokens/sec) to provide real-time counterfactual reasoning and interpretable risk diagnostics for institutional portfolios.
 *   **Agentic Reasoning Systems**
     *   Investigated modular, state-driven architectures in which multiple language-model-based agents interact through structured routing, uncertainty assessment, and hierarchical control.
     *   Reframed reasoning as an emergent process arising from coordination, persistence, and selective refinement across agents rather than a monolithic forward pass.
