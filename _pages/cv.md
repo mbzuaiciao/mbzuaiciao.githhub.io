@@ -81,8 +81,10 @@ My research investigates the **formalization of compositional reasoning** throug
 
 ## Prior Professional Background
 *   **Portfolio Management & Arbitrage Strategies**
-    *   Designed and managed global macro, credit, and capital-structure arbitrage portfolios across investment-grade and high-yield universes.
-    *   Strategies included credit index basis, CDS curve and butterfly, volatility term-structure, and correlation trades.
+    *   Architected and orchestrated systematic relative-value and arbitrage strategies across **global macro, credit, and capital-structure** domains.
+    *   Engineered quantitative signal frameworks for market-neutral execution in investment-grade and high-yield universes, emphasizing **non-linear risk capture**.
+    *   Specialized in **Credit Index Basis, CDS Curve/Butterfly dynamics, Volatility Term-Structure, and high-dimensional Conditional Correlation** trades.
+    *   Implemented rigorous institutional-grade risk parameters and tail-hedging protocols to ensure multi-year stability across volatile market regimes.
 *   **Institutional Tenure**
     *   **Salomon Brothers / Morgan Stanley (Tokyo)**: Early work in equity and fixed-income derivatives, contributing to market-making and structured trading desks.
     *   **JP Morgan Chase (Asia)**: Developed relative-value trading strategies in swaps, options, and cross-currency instruments.
