@@ -55,11 +55,12 @@ My research investigates the **formalization of compositional reasoning** throug
 *   **G42 Group, Abu Dhabi**
     *   Designed and built an AI prototype for a **sovereign wealth fund**.
     *   Integrated LLMs, Retrieval-Augmented Generation (RAG), and agentic workflows to automate reasoning in fixed-income research and investment workflows.
-*   **Methodological Frameworks (Agentic AI & Causal Inference)**
-    *   In parallel with the above, I have explored reasoning from a complementary methodological perspective through research on **agentic reasoning systems** and **double machine learning for causal inference**.
-    *   In my work on agentic reasoning, I investigated modular, state-driven architectures in which multiple language-model-based agents interact through structured routing, uncertainty assessment, and hierarchical control.
-    *   Separately, through work on double machine learning, I studied how **orthogonalization and structural constraints** enable reliable causal reasoning in high-dimensional settings.
-    *   Together, these experiences reinforced a unifying insight: **robust reasoning depends less on scale alone than on the explicit structure imposed on representations, interactions, and inference pathways**.
+*   **Agentic Reasoning Systems**
+    *   Investigated modular, state-driven architectures in which multiple language-model-based agents interact through structured routing, uncertainty assessment, and hierarchical control.
+    *   Reframed reasoning as an emergent process arising from coordination, persistence, and selective refinement across agents rather than a monolithic forward pass.
+*   **Double Machine Learning (Causal Inference)**
+    *   Studied how **orthogonalization and structural constraints** enable reliable causal reasoning in high-dimensional settings where naïve predictive learning fails.
+    *   Reinforced a unifying research insight: **robust reasoning depends on the explicit structure imposed on representations and inference pathways**, independent of model scale.
 
 ---
 
