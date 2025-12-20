@@ -21,14 +21,33 @@ redirect_from:
 
 <div style="font-family: Georgia, serif; font-size: 1.1em; line-height: 1.6;" markdown="1">
 
-## Overview
-I am a portfolio manager and AI researcher whose work bridges financial markets and machine intelligence. My background spans decades of experience across credit, rates, FX, equity, and derivatives, complemented by formal training in financial mathematics (**MIT, Stanford**) and artificial intelligence (**MBZUAI**). My career has evolved through global financial centers including **Tokyo, Hong Kong, Singapore, London, Paris, New York, and Abu Dhabi**.
+## Research Direction
+My research focuses on the **formalization of compositional reasoning** within neural architectures. I am specifically interested in how **category-theoretic structures**—such as functors, monoidal composition, and natural transformations—can serve as inductive biases to improve out-of-distribution generalization and robust multi-step reasoning in Large Language Models.
+
+## Research Interests
+*   **Compositional AI**: Inductive biases for architectural modularity.
+*   **Category Theory in ML**: Functorial semantics and latent program networks.
+*   **Agentic Reasoning**: Multi-agent orchestration and tool-use verification.
+*   **Finance & LLMs**: Domain-specific reasoning in credit and macro research.
 
 </div>
 
 ---
 
-## AI & Research Experience
+<div style="font-family: Georgia, serif; font-size: 1.1em; line-height: 1.6;" markdown="1">
+
+## Education
+*   **MBZUAI**: MSc in Natural Language Processing (Thesis: "**On Why Form Shapes Reason**")
+*   **Stanford University**: MS in Financial Mathematics
+*   **MIT**: BS in Finance
+*   **Waseda University**: MBA (**MIT Japan Scholarship**)
+*   **École 42**: Computer Science (**Systems-level software engineering**)
+
+</div>
+
+---
+
+## Research Experience
 *   **Core42 (G42 Group, Abu Dhabi)**
     *   Designed and built an AI prototype for a **sovereign wealth fund**.
     *   Integrated LLMs, Retrieval-Augmented Generation (RAG), and agentic workflows to automate reasoning in fixed-income research and credit risk analysis.
@@ -43,20 +62,13 @@ I am a portfolio manager and AI researcher whose work bridges financial markets 
 
 ---
 
-## Financial & Trading Experience
-*   **Portfolio Management & Arbitrage Strategies**
-    *   Managed global macro, credit, and capital-structure arbitrage portfolios.
-    *   Strategies included credit index basis, CDS curve and butterfly, volatility term-structure, and correlation trades.
-*   **Institutional Tenure**
-    *   **Salomon Brothers / Morgan Stanley (Tokyo)**: Equity and fixed-income derivatives; market-making and structured trading.
-    *   **JP Morgan Chase (Asia)**: Relative-value trading in swaps, options, and cross-currency instruments.
-    *   **KBC AIM / Apogee Fund / Natixis (US & Europe)**: Systematic credit and convertible arbitrage; **quantitative signal design**.
-    *   **LetterOne Group (London)**: Managed global macro fixed-income and FX strategies within a **$16 billion investment group**.
-    *   **Chao Family Office (2016 – Present)**: Independent portfolio and risk management; combining traditional arbitrage with **AI-driven models**.
+## Publications / Manuscripts
+*   *On Why Form Shapes Reason: Category-theoretic formalization of compositional reasoning* (MSc Thesis, MBZUAI).
+*   Additional manuscripts in preparation regarding functional composition in latent spaces.
 
 ---
 
-## Technical Proficiency
+## Technical Skills
 *   **Languages & Frameworks**: Python, C, Julia, PyTorch, TensorFlow, JAX, FastAPI, Streamlit.
 *   **AI Tools**: Hugging Face, LangGraph, LangChain, DSPy, AutoGen, CrewAI, RAG pipelines.
 *   **Quant & ML**: Bayesian inference (Pyro, Turing), probabilistic modeling, time-series forecasting.
@@ -64,13 +76,9 @@ I am a portfolio manager and AI researcher whose work bridges financial markets 
 
 ---
 
-<div style="font-family: Georgia, serif; font-size: 1.1em; line-height: 1.6;" markdown="1">
-
-## Academic Foundation
-*   **MBZUAI**: MSc in Natural Language Processing (Thesis: "**On Why Form Shapes Reason**")
-*   **Stanford University**: MS in Financial Mathematics
-*   **MIT**: BS in Finance
-*   **Waseda University**: MBA (**MIT Japan Scholarship**)
-*   **École 42**: Computer Science (**Systems-level software engineering**)
-
-</div>
+## Prior Professional Background
+*   **Chao Family Office (2016 – Present)**: Independent portfolio and risk management; combining traditional arbitrage with **AI-driven models**.
+*   **LetterOne Group (London)**: Managed global macro fixed-income and FX strategies within a **$16 billion investment group**.
+*   **KBC AIM / Apogee Fund / Natixis (US & Europe)**: Systematic credit and convertible arbitrage; **quantitative signal design**.
+*   **JP Morgan Chase (Asia)**: Relative-value trading in swaps, options, and cross-currency instruments.
+*   **Salomon Brothers / Morgan Stanley (Tokyo)**: Equity and fixed-income derivatives; market-making and structured trading.
