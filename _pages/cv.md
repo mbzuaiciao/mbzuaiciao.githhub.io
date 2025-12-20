@@ -22,7 +22,7 @@ redirect_from:
 <div style="font-family: Georgia, serif; font-size: 1.1em; line-height: 1.6;" markdown="1">
 
 ## Research Direction
-My research investigates the **formalization of compositional reasoning** through the lens of representation geometry. I study how **algebraic, geometric, and compositional inductive biases**—such as associativity, identity, and Lie-theoretic refinement—can be treated as differentiable, **adaptive inductive priors**. My goal is to move beyond scale-driven progress toward a theory of how representation form shapes reasoning capability, enabling models to perform robust, out-of-distribution extrapolation.
+My research investigates the **formalization of compositional reasoning** through representation geometry. I study how **algebraic and geometric inductive biases**—such as associativity, identity, and compositional refinement—can be treated as differentiable, **adaptive inductive priors** within neural representations. My goal is to move beyond scale-driven progress toward a theory of how **representation form** shapes reasoning capability, enabling robust **out-of-distribution compositional extrapolation**.
 
 ## Research Interests
 *   **Adaptive Inductive Priors**: Differentiable constraints for structural regularity.
