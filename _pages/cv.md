@@ -86,8 +86,8 @@ My research investigates the **formalization of compositional reasoning** throug
     *   Specialized in **Credit Index Basis, CDS Curve/Butterfly dynamics, Volatility Term-Structure, and high-dimensional Conditional Correlation** trades.
     *   Implemented rigorous institutional-grade risk parameters and tail-hedging protocols to ensure multi-year stability across volatile market regimes.
 *   **Institutional Tenure**
-    *   **Salomon Brothers (Tokyo)**: Nikkei index cash-and-carry arbitrage; pioneered equity derivatives market-making in Japan.
-    *   **Morgan Stanley (Tokyo)**: Fixed Income Derivatives; part of the **Derivative Products Group**, which was the highest-grossing unit within the firm (exceeding $1 billion in revenue).
-    *   **JP Morgan Chase (Asia)**: Developed relative-value trading strategies in swaps, options, and cross-currency instruments.
-    *   **Natixis (London/Paris)**: Systematic credit and relative-value strategies achieving multi-year profitability through quantitative signal engineering.
-    *   **LetterOne Group (London)**: Managed global macro fixed-income and FX strategies within a **$16 billion investment group**, adhering to institutional risk parameters and mandates.
+    *   **Salomon Brothers (Tokyo)**: Nikkei index cash-and-carry arbitrage; participated in proprietary index arbitrage strategies leveraging futures–spot dislocations, funding costs, and dividend dynamics in Japanese equity markets.
+    *   **Morgan Stanley (Tokyo)**: Fixed Income Derivatives, Derivative Products Group; structured interest-rate derivative products to achieve targeted return and risk profiles for institutional clients.
+    *   **J.P. Morgan Chase (Asia)**: Developed and traded relative-value strategies across interest-rate swaps, options, and cross-currency instruments in G7 and Asian markets.
+    *   **Natixis (London / Paris)**: Systematic credit and relative-value trading; constructed credit portfolios exploiting structural dislocations in CDS indices, curves, and basis under explicit risk constraints.
+    *   **LetterOne Group (London)**: Portfolio manager within a $16bn global investment platform; managed global macro relative-value strategies under a hedge-fund mandate.
