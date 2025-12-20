@@ -87,7 +87,7 @@ My research investigates the **formalization of compositional reasoning** throug
     *   Implemented rigorous institutional-grade risk parameters and tail-hedging protocols to ensure multi-year stability across volatile market regimes.
 *   **Institutional Tenure**
     *   **Salomon Brothers (Tokyo)**: Nikkei index cash-and-carry arbitrage; pioneered equity derivatives market-making in Japan.
-    *   **Morgan Stanley (Tokyo)**: Early work in equity and fixed-income derivatives, contributing to market-making and structured trading desks.
+    *   **Morgan Stanley (Tokyo)**: Fixed Income Derivatives; part of the **Derivative Products Group**, which was the highest-grossing unit within the firm (exceeding $1 billion in revenue).
     *   **JP Morgan Chase (Asia)**: Developed relative-value trading strategies in swaps, options, and cross-currency instruments.
     *   **Natixis (London/Paris)**: Systematic credit and relative-value strategies achieving multi-year profitability through quantitative signal engineering.
     *   **LetterOne Group (London)**: Managed global macro fixed-income and FX strategies within a **$16 billion investment group**, adhering to institutional risk parameters and mandates.
