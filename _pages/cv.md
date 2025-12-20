@@ -22,13 +22,13 @@ redirect_from:
 <div style="font-family: Georgia, serif; font-size: 1.1em; line-height: 1.6;" markdown="1">
 
 ## Research Direction
-My research focuses on the **formalization of compositional reasoning** within neural architectures. I am specifically interested in how **category-theoretic structures**—such as functors, monoidal composition, and natural transformations—can serve as inductive biases to improve out-of-distribution generalization and robust multi-step reasoning in Large Language Models.
+My research investigates the **formalization of compositional reasoning** through the lens of representation geometry. I study how **algebraic, geometric, and compositional inductive biases**—such as associativity, identity, and Lie-theoretic refinement—can be treated as differentiable, **adaptive inductive priors**. My goal is to move beyond scale-driven progress toward a theory of how representation form shapes reasoning capability, enabling models to perform robust, out-of-distribution extrapolation.
 
 ## Research Interests
-*   **Compositional AI**: Inductive biases for architectural modularity.
-*   **Category Theory in ML**: Functorial semantics and latent program networks.
-*   **Agentic Reasoning**: Multi-agent orchestration and tool-use verification.
-*   **Finance & LLMs**: Domain-specific reasoning in credit and macro research.
+*   **Adaptive Inductive Priors**: Differentiable constraints for structural regularity.
+*   **Geometric Deep Learning**: Lie-theoretic perspectives on iterative neural refinement.
+*   **Functorial Semantics**: Learned homomorphism and equivariance in latent spaces.
+*   **Systematic Generalization**: Extrapolating to unseen multi-step and hierarchical compositions.
 
 </div>
 
@@ -48,37 +48,36 @@ My research focuses on the **formalization of compositional reasoning** within n
 ---
 
 ## Research Experience
+*   **Latent Program Networks (LPNs)**
+    *   Introduced a framework for structuring latent transformations using algebraic constraints (**Associativity, Identity, Closure**).
+    *   Demonstrated **systematic multi-step generalization** from single-step supervision without explicit symbolic rules or test-time search.
+    *   Established that complex reasoning emerges when latent geometry is appropriately shaped, rather than through scale alone.
 *   **Core42 (G42 Group, Abu Dhabi)**
     *   Designed and built an AI prototype for a **sovereign wealth fund**.
-    *   Integrated LLMs, Retrieval-Augmented Generation (RAG), and agentic workflows to automate reasoning in fixed-income research and credit risk analysis.
-*   **Latent Program Networks (LPNs)**
-    *   Researched category-theoretic structures in neural reasoning to improve **out-of-distribution generalization**.
-    *   Explored functors, monoidal composition, and natural transformations as inductive biases in neural architectures.
+    *   Integrated LLMs, Retrieval-Augmented Generation (RAG), and agentic workflows to automate reasoning in fixed-income research and investment workflows.
 *   **AI Agents & Multi-Step Reasoning**
-    *   Designed modular systems using **LangGraph, LangChain, LangSmith**, and **Deep Agents**.
-    *   Orchestrated multi-agent collaboration, tool-use, and structured memory for domain-specific intelligence in finance.
-*   **LLM Foundations & Implementation**
-    *   Hands-on experience with transformer architectures, **parameter-efficient fine-tuning (PEFT, QLoRA)**, scalable training workflows, and theoretical alignment.
+    *   Designed modular systems using **LangGraph, LangChain**, and **Deep Agents**.
+    *   Orchestrated multi-agent collaboration and structured memory for domain-specific intelligence in global finance.
 
 ---
 
 ## Publications / Manuscripts
 *   *On Why Form Shapes Reason: Category-theoretic formalization of compositional reasoning* (MSc Thesis, MBZUAI).
-*   Additional manuscripts in preparation regarding functional composition in latent spaces.
+*   *Adaptive Inductive Priors for Compositional Extrapolation* (Drafting).
+*   *Geometric Paths in Latent Spaces: Reasoning as Learned Dynamical Systems* (In Preparation).
 
 ---
 
 ## Technical Skills
-*   **Languages & Frameworks**: Python, C, Julia, PyTorch, TensorFlow, JAX, FastAPI, Streamlit.
-*   **AI Tools**: Hugging Face, LangGraph, LangChain, DSPy, AutoGen, CrewAI, RAG pipelines.
-*   **Quant & ML**: Bayesian inference (Pyro, Turing), probabilistic modeling, time-series forecasting.
-*   **Blockchain & DeFi**: Solidity, Hardhat, Chainlink, Dune, Web3.js; **tokenized credit** and smart-contract-based arbitrage.
+*   **Machine Learning**: JAX, PyTorch, Turing (Julia), Bayesian Inference, Probabilistic Modeling, W&B.
+*   **AI Architecture**: LangGraph, DSPy, Hugging Face, PEFT (QLoRA), RAG Pipelines, Multi-agent Systems.
+*   **Engineering**: Python, C, Julia, Docker, Poetry, FastAPI, Streamlit, Flutter/Firebase.
+*   **Finance & DeFi**: Solidity, Hardhat, Ethers.js, QuantConnect, Credit/Rates Arbitrage, Systematic Risk Management.
 
 ---
 
 ## Prior Professional Background
-*   **Chao Family Office (2016 – Present)**: Independent portfolio and risk management; combining traditional arbitrage with **AI-driven models**.
-*   **LetterOne Group (London)**: Managed global macro fixed-income and FX strategies within a **$16 billion investment group**.
-*   **KBC AIM / Apogee Fund / Natixis (US & Europe)**: Systematic credit and convertible arbitrage; **quantitative signal design**.
-*   **JP Morgan Chase (Asia)**: Relative-value trading in swaps, options, and cross-currency instruments.
-*   **Salomon Brothers / Morgan Stanley (Tokyo)**: Equity and fixed-income derivatives; market-making and structured trading.
+*   **Chao Family Office (2016 – Present)**: Independent portfolio management; combining traditional arbitrage with **AI-driven models**.
+*   **LetterOne Group (London)**: Portfolio Manager for global macro and FX within a **$16 billion investment group**.
+*   **KBC AIM / Natixis (New York/Paris/London)**: Systematic credit and convertible arbitrage; **quantitative signal design**.
+*   **JP Morgan Chase**, **Morgan Stanley**, **Salomon Brothers** (Tokyo/HK/Singapore): Rates and Equity Derivatives trading.
