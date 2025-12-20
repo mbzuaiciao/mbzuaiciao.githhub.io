@@ -14,7 +14,7 @@ redirect_from:
 </div>
 
 # CC
-<i class="fa fa-globe" aria-hidden="true"></i> USA / UK  
+<i class="fa fa-globe" aria-hidden="true"></i> Dual Citizen: USA & UK  
 [<i class="fa fa-envelope" aria-hidden="true"></i> ciao@gmail.com](mailto:ciao@gmail.com)
 
 ---
