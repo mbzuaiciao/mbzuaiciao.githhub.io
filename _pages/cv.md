@@ -70,10 +70,10 @@ My research investigates the **formalization of compositional reasoning** throug
 ---
 
 ## Technical Skills
-*   **Machine Learning**: JAX, PyTorch, Turing (Julia), Bayesian Inference, Probabilistic Modeling, W&B.
-*   **AI Architecture**: LangGraph, DSPy, Hugging Face, PEFT (QLoRA), RAG Pipelines, Multi-agent Systems.
-*   **Engineering**: Python, C, Julia, Docker, Poetry, FastAPI, Streamlit, Flutter/Firebase.
-*   **Finance & DeFi**: Solidity, Hardhat, Ethers.js, QuantConnect, Credit/Rates Arbitrage, Systematic Risk Management.
+*   **Machine Learning**: PyTorch, JAX, Turing.jl, Tensorflow Probability, Pyro, W&B.
+*   **AI Architecture**: Hugging Face, LangChain, LangGraph, LangSmith, CrewAI, Ollama, Groq.
+*   **Engineering**: Python, C, Julia, Git, Docker, Poetry, FastAPI, Streamlit, Flutter, Firebase.
+*   **DeFi**: Solidity, Remix, Metamask, Truffle, Ganache, Openzeppelin, Brownie, Hardhat.
 
 ---
 
