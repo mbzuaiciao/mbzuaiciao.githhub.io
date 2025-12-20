@@ -37,7 +37,7 @@ My research investigates the **formalization of compositional reasoning** throug
 <div style="font-family: Georgia, serif; font-size: 1.1em; line-height: 1.6;" markdown="1">
 
 ## Education
-*   **MBZUAI**: MSc in Natural Language Processing (Thesis: "**On Why Form Shapes Reason**")
+*   **MBZUAI**: MSc in Natural Language Processing (Thesis: "**On Why Form Shapes Reason: Structuring Latent Program Networks with Category-Theoretic Constraints**")
 *   **École 42**: Computer Science (**Systems-level software engineering**)
 *   **Stanford University**: MS in Financial Mathematics
 *   **Waseda University**: MBA
@@ -65,7 +65,7 @@ My research investigates the **formalization of compositional reasoning** throug
 ---
 
 ## Publications / Manuscripts
-*   *On Why Form Shapes Reason: Category-theoretic formalization of compositional reasoning* (MSc Thesis, MBZUAI).
+*   *On Why Form Shapes Reason: Structuring Latent Program Networks with Category-Theoretic Constraints* (MSc Thesis, MBZUAI).
 *   *Adaptive Inductive Priors for Compositional Extrapolation* (Drafting).
 *   *Geometric Paths in Latent Spaces: Reasoning as Learned Dynamical Systems* (In Preparation).
 
