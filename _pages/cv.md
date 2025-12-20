@@ -14,9 +14,8 @@ redirect_from:
 </div>
 
 # CC
-**Portfolio Manager & AI Researcher**  
 <i class="fa fa-globe" aria-hidden="true"></i> USA / UK  
-[<i class="fa fa-envelope" aria-hidden="true"></i> ciao@gmail.com](mailto:ciao@gmail.com) | [<i class="fa fa-phone" aria-hidden="true"></i> +1 617-500-5555](tel:+16175005555)
+[<i class="fa fa-envelope" aria-hidden="true"></i> ciao@gmail.com](mailto:ciao@gmail.com)
 
 ---
 
