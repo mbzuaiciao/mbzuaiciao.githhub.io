@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-# Ching Chao
+# CC
 **Portfolio Manager & AI Researcher**  
-[mbzuai.ciao@gmail.com](mailto:mbzuai.ciao@gmail.com) | +1 617-500-3575
+[ciao@gmail.com](mailto:ciao@gmail.com) | +1 617-500-5555
 
 ## Overview
 I am a portfolio manager and AI researcher whose work bridges financial markets and machine intelligence. My background spans decades of experience across credit, rates, FX, equity, and derivatives, complemented by formal training in financial mathematics (MIT, Stanford) and artificial intelligence (MBZUAI). My career has evolved through global financial centers including Tokyo, Hong Kong, Singapore, London, Paris, New York, and Abu Dhabi.
