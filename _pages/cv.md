@@ -66,8 +66,6 @@ My research investigates the **formalization of compositional reasoning** throug
 
 ## Publications / Manuscripts
 *   *On Why Form Shapes Reason: Structuring Latent Program Networks with Category-Theoretic Constraints* (MSc Thesis, MBZUAI).
-*   *Adaptive Inductive Priors for Compositional Extrapolation* (Drafting).
-*   *Geometric Paths in Latent Spaces: Reasoning as Learned Dynamical Systems* (In Preparation).
 
 ---
 
